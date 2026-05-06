@@ -7,7 +7,7 @@ Typical uses: finding historical URLs for a file extension, path segment, or oth
 ## Requirements
 
 - [Go](https://go.dev/dl/) 1.21 or newer
-- Gzipped Common Crawl index files in a folder on disk (see [Common Crawl](https://commoncrawl.org/) for how to obtain them)
+- Gzipped Common Crawl index files in a folder on your local storage (You can use [Common Crawl Downloader](https://github.com/commoncrawl/cc-downloader) to grab them)
 
 ## Build
 
