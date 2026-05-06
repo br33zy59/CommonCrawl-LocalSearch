@@ -1,0 +1,23 @@
+# Local Common Crawl data (large; not part of the repo)
+Crawl_Data/
+
+# Built binaries (testing / local builds)
+/bin/
+*.exe
+/cc-search
+/cc-search.exe
+
+# Program output (transient extraction results)
+*_urls.txt
+
+# Go tooling
+*.test
+*.out
+coverage.out
+/vendor/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
